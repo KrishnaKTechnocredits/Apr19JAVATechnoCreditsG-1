@@ -1,4 +1,4 @@
-package Java_Assigment1;
+package mainyS;
 
 // WAP for sum,subtraction,mutliplication,division and remainder of two numbers
 public class Q1 {
