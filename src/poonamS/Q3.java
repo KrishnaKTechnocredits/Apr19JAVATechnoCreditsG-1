@@ -1,4 +1,4 @@
-package assignments;
+package poonamS;
 
 public class Q3 {
 

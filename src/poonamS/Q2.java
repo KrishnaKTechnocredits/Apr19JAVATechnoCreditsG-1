@@ -1,4 +1,4 @@
-package assignments;
+package poonamS;
 
 import java.util.Scanner;
 
