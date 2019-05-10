@@ -1,4 +1,4 @@
-package ajayS;
+	package ajayS;
 
 class JavaProgram1 {
 
