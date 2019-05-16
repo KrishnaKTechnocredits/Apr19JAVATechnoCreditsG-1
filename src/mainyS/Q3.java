@@ -1,4 +1,4 @@
-package Java_Assigment1;
+package mainyS;
 
 //WAP to find the square and cube of a number
 public class Q3 {

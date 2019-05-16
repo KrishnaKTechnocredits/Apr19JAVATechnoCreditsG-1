@@ -1,4 +1,4 @@
-package Java_Assigment1;
+package mainyS;
 
 //WAP to find the area and perimeter of Rectangle and circle
 public class Q4 {
