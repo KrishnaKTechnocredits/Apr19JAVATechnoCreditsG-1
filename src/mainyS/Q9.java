@@ -1,9 +1,9 @@
-package Java_Assigment1;
+package mainyS;
 
 //WAP to swap two numbers without using the third variable
 public class Q9 {
 
-	void swap(int x, int y) {
+	void swapNo(int x, int y) {
 		System.out.println("x is = " + x + " and y is = " + y);
 		y = (x + y) - (x = y);
 
@@ -13,7 +13,7 @@ public class Q9 {
 
 	public static void main(String args[]) {
 		Q9 q9 = new Q9();
-		q9.swap(500, 100);
+		q9.swapNo(500, 100);
 
 	}
 }

@@ -1,4 +1,4 @@
-package Java_Assigment1;
+package mainyS;
 //WAP to print the details of Student as Roll No, Name, Marks by taking input from user.
 public class Q2 {
 	void student(int rollNo, String name, int marks) {
