@@ -1,7 +1,7 @@
-package CoreJava_Assignement;
+package mainyS;
 
 import java.util.Scanner;
-
+//Calulator using swtch case
 public class CoreJava4 
 {
 	static void cal()

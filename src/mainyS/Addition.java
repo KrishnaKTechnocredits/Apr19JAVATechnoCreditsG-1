@@ -1,7 +1,8 @@
-package ClassObject;
+package mainyS;
 
 import java.util.Scanner;
 
+//Create Addition class and write methods for add
 public class Addition {
 	String str;
 	static Scanner sc = new Scanner(System.in);
@@ -34,7 +35,7 @@ public class Addition {
 	}
 
 	public static void main(String[] args) {
-		Addition add =new Addition();
+		Addition add = new Addition();
 		add.integerSum();
 		add.decimalSum();
 		add.stringSum();

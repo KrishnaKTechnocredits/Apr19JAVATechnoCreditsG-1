@@ -1,5 +1,5 @@
 package mainyS;
-
+//WAP for square with field, one parameterized constructor with accept side......
 public class Square {
 	
 	int side=0;

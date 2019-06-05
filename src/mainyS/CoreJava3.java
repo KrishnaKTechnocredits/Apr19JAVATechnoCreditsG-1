@@ -1,7 +1,7 @@
-package CoreJava_Assignement;
+package mainyS;
 
 import java.util.Scanner;
-
+//WAP in java that takes year from user and print whether that year is leap or not
 public class CoreJava3 
 {
 	void leapYear()
