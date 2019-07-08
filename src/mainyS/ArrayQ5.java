@@ -17,6 +17,7 @@ public class ArrayQ5 {
 		int max1 = max;
 		for (int i = 0; i < arr.length; i++) {
 			if (max < arr[i]) {
+				
 				max1 = max;
 				max = arr[i];
 			} else if (arr[i] > max1 && arr[i] != max) {
